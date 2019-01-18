@@ -1,0 +1,31 @@
+body{
+background-color: black;
+font-family: Calibri;
+color: #5e5c56;
+}
+h1{
+color: #c0cb7f;
+font-family: Arial;
+}
+h2{
+color: #c0cb7f;
+font-family: Arial;
+}
+h3{
+color: #c0cb7f;
+font-family: Arial;
+}
+a{
+color: #677f51;
+text-decoration: none;
+}
+a:hover{
+text-decoration: underline;
+}
+table{
+border-collapse: collapse;
+border: 1px solid #a64626;
+background-color: #222222;
+font-weight: bold;
+width: 250px;
+}
