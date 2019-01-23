@@ -1,0 +1,47 @@
+* {
+margin: 0;
+}
+
+body {
+font-family: Verdana;
+font-size: 14pt;
+}
+
+header {
+background-color: #00c9fd;
+width: 900px;
+}
+
+header h1 {
+padding: 10px;
+color: rgb(255,255,255);
+}
+
+#wrapper {
+width: 900px;
+background-color: #ff3333;
+}
+
+nav {
+background-color: #cccccc;
+width: 900px;
+}
+
+article {
+background-color: #cccccc;
+width: 900px;
+}
+
+#contact {
+background-color: #cccccc;
+width: 900px;
+}
+
+footer {
+background-color: #00c9fd;
+width: 900px;
+}
+
+#bigimage {
+width: 900px;
+}
